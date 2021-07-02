@@ -1,6 +1,7 @@
 {
   "CORES":[{
     "version":"1.0",
-    "":""
+    "minimumVersion":"",
+    "targetVersion":""
   }]
 }
