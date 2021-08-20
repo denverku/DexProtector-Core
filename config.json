@@ -1,5 +1,19 @@
 {
   "CORES":[{
+    "Name":"DexPro Core",
+    "path": "1.0/classes.dex",
+    "version":"1.0",
+    "minimumVersion":"",
+    "targetVersion":""
+  },{
+    "Name":"Android Jar"
+    "path":"sdk/android.jar",
+    "version":"1.0",
+    "minimumVersion":"",
+    "targetVersion":""
+  },{
+    "Name":"D8 and R8",
+    "path": "sdk/d8.jar",
     "version":"1.0",
     "minimumVersion":"",
     "targetVersion":""
