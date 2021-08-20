@@ -6,7 +6,7 @@
     "minimumVersion":"",
     "targetVersion":""
   },{
-    "Name":"Android Jar"
+    "Name":"Android Jar",
     "path":"sdk/android.jar",
     "version":"1.0",
     "minimumVersion":"",
