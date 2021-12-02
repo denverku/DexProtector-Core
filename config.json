@@ -7,6 +7,13 @@
     "minimumVersion":"",
     "targetVersion":""
   },{
+    "Name":"DexPro Core",
+    "path": "2.0/classes.dex",
+    "outname": "dexpro.jar",
+    "version":"2.0",
+    "minimumVersion":"",
+    "targetVersion":""
+  },{
     "Name":"Android Jar",
     "path":"sdk/android.jar",
     "outname": "android.jar",
