@@ -7,6 +7,13 @@
     "minimumVersion":"",
     "targetVersion":""
   },{
+    "Name":"DexPro Core latest",
+    "path": "3.0/dexprotector.tk",
+    "outname": "dexpro.jar",
+    "version":"3.0",
+    "minimumVersion":"",
+    "targetVersion":""
+  },{
     "Name":"Android Jar",
     "path":"sdk/android.jar",
     "outname": "android.jar",
